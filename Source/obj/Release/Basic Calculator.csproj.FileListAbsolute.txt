@@ -1,0 +1,10 @@
+C:\Users\Brandon\source\repos\Basic Calculator\bin\Release\Basic Calculator.exe.config
+C:\Users\Brandon\source\repos\Basic Calculator\bin\Release\Basic Calculator.exe
+C:\Users\Brandon\source\repos\Basic Calculator\bin\Release\Basic Calculator.pdb
+C:\Users\Brandon\source\repos\Basic Calculator\obj\Release\Basic Calculator.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Basic Calculator\obj\Release\Basic_Calculator.Form1.resources
+C:\Users\Brandon\source\repos\Basic Calculator\obj\Release\Basic_Calculator.Properties.Resources.resources
+C:\Users\Brandon\source\repos\Basic Calculator\obj\Release\Basic Calculator.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\Basic Calculator\obj\Release\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Basic Calculator\obj\Release\Basic Calculator.exe
+C:\Users\Brandon\source\repos\Basic Calculator\obj\Release\Basic Calculator.pdb
