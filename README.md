@@ -1,1 +1,1 @@
-This is a very basic calculator app created using Windows Forms.
+To use this program, simply run the Basic Calculator.exe
